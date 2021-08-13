@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xrafsan&label=Profile%20views&color=0e75b6&style=flat" alt="xrafsan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/xrafsan" target="blank"><img src="https://img.shields.io/twitter/follow/xrafsan?logo=twitter&style=for-the-badge" alt="xrafsan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xraafsan" target="blank"><img src="https://img.shields.io/twitter/follow/xrafsan?logo=twitter&style=for-the-badge" alt="xrafsan" /></a> </p>
 
 - ✅ I’m currently working on [RFS 999 Discord Bot](https://discord.com/oauth2/authorize?client_id=779253364910718986&permissions=2134207679&scope=bot)
 
