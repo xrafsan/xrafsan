@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xrafsan&label=Profile%20views&color=0e75b6&style=flat" alt="xrafsan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/xraafsan" target="blank"><img src="https://img.shields.io/twitter/follow/xrafsan?logo=twitter&style=for-the-badge" alt="xrafsan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xrafsaan" target="blank"><img src="https://img.shields.io/twitter/follow/xrafsaan?logo=twitter&style=for-the-badge" alt="xrafsaan" /></a> </p>
 
 - ✅ I’m currently working on [RFS 999 Discord Bot](https://discord.com/oauth2/authorize?client_id=779253364910718986&permissions=2134207679&scope=bot)
 
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/xrafsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xrafsan" height="30" width="40" /></a>
-<a href="https://fb.com/rafsan siyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafsan siyam" height="30" width="40" /></a>
+<a href="https://twitter.com/xrafsaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xrafsaan" height="30" width="40" /></a>
+<a href="https://fb.com/xthegrimreaper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xthegrimreaper" height="30" width="40" /></a>
 <a href="https://instagram.com/_xrafsan.error" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_xrafsan.error" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rafsxn 死" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafsxn 死" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucu_udqw0ujfb-muochh6hrq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucu_udqw0ujfb-muochh6hrq" height="30" width="40" /></a>
 <a href="https://discord.gg/Zuxmydb3s2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zuxmydb3s2" height="30" width="40" /></a>
 </p>
 
