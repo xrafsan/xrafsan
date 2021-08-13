@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/xrafsaan" target="blank"><img src="https://img.shields.io/twitter/follow/xrafsaan?logo=twitter&style=for-the-badge" alt="xrafsaan" /></a> </p>
 
-- ✅ I’m currently working on [RFS 999 Discord Bot](https://discord.com/oauth2/authorize?client_id=779253364910718986&permissions=2134207679&scope=bot)
+- ✅ I’m currently working on [RFS 999](https://discord.com/oauth2/authorize?client_id=779253364910718986&permissions=2134207679&scope=bot)
 
 - 🌱 Currently learning **JavaScript and Web Development**
 
